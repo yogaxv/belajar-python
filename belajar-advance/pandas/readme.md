@@ -25,22 +25,22 @@ Silahkan menggunakan conda :
 `conda install numpy`\
 `conda install openpyxl`\
 `conda install xlrd`\
-`conda install xlrd`\
-`conda install lmxl`\
+`conda install lxml`\
 `conda install html5lib`\
 `conda install BeatifulSoup4`\
 `conda install SqlAlchemy`\
+`conda install pandas`
 
 Atau menggunakan pip :
 
 `pip install numpy`\
 `pip install openpyxl`\
 `pip install xlrd`\
-`pip install xlrd`\
-`pip install lmxl`\
+`pip install lxml`\
 `pip install html5lib`\
 `pip install BeatifulSoup4`\
 `pip install SqlAlchemy`\
+`pip install pandas`
 
 ## Asset untuk belajar
 
